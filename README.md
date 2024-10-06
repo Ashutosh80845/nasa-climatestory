@@ -70,4 +70,5 @@ Project Team:
 List team members or contributors here (if applicable).
 
 Contact Information:
-For any questions or support, please contact [your-email@example.com].
+For any questions or support, please contact suchitrabp93@gmail.com
+
