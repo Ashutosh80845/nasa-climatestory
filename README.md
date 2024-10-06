@@ -43,7 +43,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/climate-stories-2023.git
+git clone https://github.com/Ashutosh80845/nasa-climatestory-2023.git
 cd climate-stories-2023
 Open the website locally:
 
